@@ -482,7 +482,7 @@ section .container {
 }
 .interests .icon-box:hover {
   background: rgba(255, 255, 255, 0.10);
-  box-shadow: rgba(139, 139, 139, 0.219) 0px 14px 28px, rgba(139, 139, 139, 0.219) 0px 10px 10px;
+  box-shadow: 0px 0 35px 0 rgb(173 173 173 / 34%);
 }
 
 /*--------------------------------------------------------------
@@ -665,7 +665,7 @@ section .container {
 }
 .services .icon-box:hover {
   background: rgba(15, 15, 15, 0.65);
-  box-shadow: rgba(223, 223, 223, 0.15) 4px 8px 20px 7px;
+  box-shadow: 0px 0 35px 0 rgb(173 173 173 / 34%);
   border-color: rgba(15, 15, 15, 0.65);
 }
 .services .icon-box:hover .icon {
