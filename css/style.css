@@ -723,6 +723,9 @@ section .container {
   overflow: hidden;
   z-index: 1;
   background: rgba(0, 0, 0, 0.6);
+  border: 1px solid;
+  border-color: #ffffff71;
+  padding: 12px 4px;
 }
 .portfolio .portfolio-wrap::before {
   content: "";
