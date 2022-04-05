@@ -525,6 +525,34 @@ section .container {
   top: -15px;
 }
 
+/*--------------------------------------------------------------
+# Happy Clients
+--------------------------------------------------------------*/
+.jobs .client-box {
+  display: block;
+  align-items: center;
+  padding: 20px;
+  background: rgba(255, 255, 255, 0.08);
+  transition: ease-in-out 0.3s;
+  position: relative;
+}
+.jobs .client-box i {
+  font-size: 62px;
+  padding-right: 10px;
+  line-height: 1;
+}
+
+.jobs .client-box i img {
+  width: 100%;
+  height: 80px;
+}
+
+.jobs .client-box:hover {
+  background: rgba(15, 15, 15, 0.65);
+  box-shadow: 0px 0 35px 0 rgb(173 173 173 / 22%);
+  border-color: rgba(15, 15, 15, 0.65);
+}
+
 
 /*--------------------------------------------------------------
 # Testimonials
