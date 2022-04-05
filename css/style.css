@@ -561,6 +561,12 @@ section .container {
   }
 }
 
+@media (min-width: 100px) {
+  .new-mt-4 {
+    margin-top: 1.5rem !important;
+  }
+}
+
 
 /*--------------------------------------------------------------
 # Testimonials
