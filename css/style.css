@@ -811,9 +811,12 @@ section .container {
   position: relative;
   overflow: hidden;
   z-index: 1;
-  background-color: rgb(18 18 18 / 72%);
-  box-shadow: #d3d3d35c 0px -2px 20px -5px, #d3d3d359 0px 3px 7px -3px;
+  /*background-color: rgb(18 18 18 / 72%);*/
+  background-color: rgb(12 12 12 / 72%);
+  /*box-shadow: #d3d3d35c 0px -2px 20px -5px, #d3d3d359 0px 3px 7px -3px;*/
+  box-shadow: #d3d3d35c 0px -2px 12px -5px, #d3d3d359 0px 3px 5px -3px;
   padding: 12px 5px;
+  border: 1px solid #eaeaea40;
 }
 .portfolio .portfolio-wrap::before {
   content: "";
