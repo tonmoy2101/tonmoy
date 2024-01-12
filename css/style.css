@@ -35,6 +35,13 @@ a:hover {
   text-decoration: none;
 }
 
+.btn-def {
+  color: #000 !important;
+  font-weight: 600 !iimportant;
+  background-color: #fad02c;
+  border-color: #fad02c;
+}
+
 h1,
 h2,
 h3,
