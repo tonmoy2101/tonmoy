@@ -42,6 +42,12 @@ a:hover {
   border-color: #fad02c;
 }
 
+.btn-def:hover {
+  background-color: #f8ac1c !important;
+  border-color: @f8ac1c !important;
+  color: #000;
+}
+
 h1,
 h2,
 h3,
